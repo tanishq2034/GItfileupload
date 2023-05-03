@@ -3,5 +3,13 @@ using namespace std;
 
 main()
 {
-  cout<<"happy happy happy world"<<endl;
+  int n;
+  for(int i=n;i>=0;i--)
+  {
+    for(int j=i;j>=i;j++)
+    {
+        cout<<"*";
+    }
+  cout<< "endl";
+  }
 }
